@@ -48,3 +48,8 @@ header a:link,
 header a:visited {
   color: white;
 }
+
+main {
+  display: flex;
+  background-color: rgb(216, 240, 241);
+}
